@@ -19,14 +19,6 @@ I focus on **topology identification and fault detection in power distribution g
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Overleaf](https://img.shields.io/badge/Overleaf-47A141?style=for-the-badge&logo=overleaf&logoColor=white)
 
----
-
-### 📊 GitHub Metrics
-<p align="center">
-  <img src="/github-metrics.svg" alt="Metrics" width="100%">
-</p>
-
----
 
 ### 🔬 Research Interests
 * **Power Systems:** High Impedance Fault (HIF) detection in smart grids.
@@ -35,9 +27,6 @@ I focus on **topology identification and fault detection in power distribution g
 
 ### 🌏 Beyond Engineering
 * **Languages:** Currently studying **Mandarin Chinese** (Instituto Confúcio).
-* **Gaming:** Overwatch Support main (Wuyang) and Indie titles enthusiast.
-* **Anime:** One Piece and Neon Genesis Evangelion.
-
 ---
 
 ### 📬 Connect with me
