@@ -28,13 +28,6 @@ My research focuses on the intersection of **Signal Processing** and **Power Dis
 
 ---
 
-### 📊 Research Activity
-<p align="center">
-  <img src="/github-metrics.svg" alt="GitHub Metrics Dashboard" width="100%">
-</p>
-
----
-
 ### 🎓 Academic Credentials & Languages
 * **Institution:** Federal University of Maranhão (UFMA).
 * **Languages:** * **Portuguese:** Native.
